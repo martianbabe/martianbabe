@@ -12,6 +12,8 @@
 
 
 
+
+
 <!--
 **martianbabe/martianbabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,4 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram-1hsuan1996
 - 😄 Pronouns: "I can do this all day !"
 - ⚡ Fun fact: Never be a poser!!!
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31sgnw777nnda63melna3x3lsdoe)
 -->
