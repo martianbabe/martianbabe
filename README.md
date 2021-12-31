@@ -1,10 +1,11 @@
 ### Hi there,I am Jessie👋💙
-- 🌱 I’m currently learning Java-spring boot
-- 🤔 I’m looking for help with JavaScript
-- 💬 Ask me about anything:D
+- 🌱 I’m currently learning both backend and frontend
+- 👩‍💻 My goal: become a full stack developer
+- 💻 Backend skills: Java(spring boot),MySQL,AWS,Linux ...etc
+- 🎨 Frontend skills: HTML,CSS,JS,Bootstrap,Vuejs3 ...etc
 - 📫 How to reach me: Instagram-1hsuan1996
 - 😄 Pronouns: "I can do this all day !"
-- ⚡ Fun fact: Never be a poser!!!
+
 
 
 <!--
